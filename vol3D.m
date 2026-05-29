@@ -1,7 +1,6 @@
 function V = vol3D(Vaxis,Num)
 % Build 3D volume of regular grid points 
-%
-x = vol3D(Vaxis,Num);
+%x = vol3D(Vaxis,Num);
 %
 % Returns a Numx3 vector x of regular grid points spanning the 3D volume 
 % defined by the Vaxis = [[xmin xmax], [ymin ymax], [zmin zmax]] axes with
